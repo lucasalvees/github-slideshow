@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+[@lucaas.alvess] (http://instagram.com/lucaas.alvess)
 Use the left arrow to go back!
